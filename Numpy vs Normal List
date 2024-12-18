@@ -1,0 +1,7 @@
+# This contains the code of Python list vs numpy array for execution of why numpy stands out as a better array manipulator for Large datasets.
+
+1.(basic plotters)
+pip install seaborn matplot 
+
+2.Linux users
+sudo apt-get install python3-tk
